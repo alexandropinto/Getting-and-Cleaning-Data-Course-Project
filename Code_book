@@ -8,6 +8,16 @@ The data contains the mean of 3-axial linear acceleration and 3-axial angular ve
 at a constant rate of 50Hz as derived from a Samsung Galaxy S smartphone worn on the hip
 during different activities by 30 volunteers.
 
+
+PROCEDURES TO ANALYSE THE FILES:
+1) Read the .txt files and label the datasets
+2) Put the variable/column labels
+3) Merge the files
+4) Select only variables/columns that have mean and std. dev.
+5) Calculate the mean of the measuments for each individual and activity
+6) write the output file
+
+
 SUMMARY CHOICES
 ---------------
 
